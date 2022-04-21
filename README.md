@@ -24,4 +24,4 @@
  
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=laisbrito1&repo=laisbrito1&theme=react)](https://github.com/laisbrito1/laisbrito1)
+
