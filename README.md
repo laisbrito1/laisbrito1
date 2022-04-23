@@ -17,8 +17,13 @@
     
 </div>
 <br>
+  <div style= "display:flex">
   <br>
-  <a href="https://www.instagram.com/chrrylai/" target="_blank"><img height="30"  width="40" src="https://cdn3.iconfinder.com/data/icons/social-media-networks-logos-and-badges-1/64/Social__Instagram-512.png" target="_blank"></a>
+  <h3>Social media</h3> 
+  <a href="https://www.instagram.com/chrrylai/" target="_blank"><img height="30"  width="30" src="https://cdn-icons-png.flaticon.com/512/87/87390.png" target="_blank"></a>
+  <a href="www.linkedin.com/in/laisbrito1" target="_blank"><img height="30"  width="30" src="https://aquilasweb.com.br/wp-content/uploads/2017/07/Aquilas-WEB-Linkedin-Logo.jpg" target="_blank"></a>
+    <a href="https://twitter.com/pxlrss" target="_blank"><img height="30"  width="30" src="https://cdn-icons-png.flaticon.com/512/60/60580.png" target="_blank"></a>
+  </div>
 
  
  
