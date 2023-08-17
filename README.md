@@ -6,6 +6,6 @@
 </div>
 
   - 🗣️ I speak Portuguese and English 
-  - 🏗️  I’m building things with **JavaScript**, **Java**, **CSS**, **Python** and **React**.
+  - 🏗️  I’m building things with **JavaScript**, **Java**, **CSS**, **Python**, **React** and **SQL**.
   - 👯 I'm currently studing Computer Science
 </div>
