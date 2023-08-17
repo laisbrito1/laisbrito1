@@ -7,5 +7,5 @@
 
   - 🗣️ I speak Portuguese and English 
   - 🏗️  I’m building things with **JavaScript**, **Java**, **CSS**, **Python** and **React**.
-  - 👯 I'm currently pursuing a degree in Computer Science
+  - 👯 I'm currently studing Computer Science
 </div>
