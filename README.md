@@ -6,7 +6,7 @@
   - 🧠 I'm currently studying Computer Science
 
 
-## 🚀 Sobre mim
+## 🚀 About me
  I am seeking opportunities to apply my skills and knowledge in the field of Computer Science and contribute to technological development and innovation.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
