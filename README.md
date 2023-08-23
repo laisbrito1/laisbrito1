@@ -3,7 +3,7 @@
 #  Hi! My name is Lais Brito, I'm FullStack Developer 
 
   - 🗣️ I speak Portuguese and English 
-  - 🧠 I'm currently studing Computer Science
+  - 🧠 I'm currently studying Computer Science
 
 
 ## 🚀 Sobre mim
