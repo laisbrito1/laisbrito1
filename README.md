@@ -1,6 +1,6 @@
 
 
-#  Hi! My name is Lais Brito, I'm FullStack Developer 
+#  Hi! My name is Lais Brito, I'm Developer and Designer
 
   - 🗣️ I speak Portuguese and English 
   - 🧠 I'm currently studying Computer Science
