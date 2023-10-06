@@ -1,6 +1,6 @@
 
 
-#  Hi! My name is Lais Brito, I'm Developer and Designer
+#  Hi! My name is Lais Brito, I'm Developer 
 
   - 🗣️ I speak Portuguese and English 
   - 🧠 I'm currently studying Computer Science
