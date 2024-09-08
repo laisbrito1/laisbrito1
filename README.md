@@ -1,6 +1,6 @@
 
 
-#  Hi! My name is Lais Brito, I'm Network Engineer Developer 
+#  Hi! My name is Lais Brito, I'm Network Analist and Developer 
 
   - 🗣️ I speak Portuguese and English 
   - 🧠 I'm currently studying Computer Science
